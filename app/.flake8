@@ -1,0 +1,5 @@
+exclude =
+    migaretions,
+    __pycache__,
+    manage.py,
+    settings.py
